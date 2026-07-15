@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">豆浆</title>
+  <desc id="desc">豆制品食材图标：豆浆</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f3f8ed"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8b987"/>
+      <stop offset="1" stop-color="#efe8d4"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#fff" d="M42 50h44c6 0 10 5 10 11v32c0 10-8 18-18 18H50c-10 0-18-8-18-18V61c0-6 4-11 10-11Z"/><path fill="url(#main)" d="M34 70h60v23c0 9-7 16-16 16H50c-9 0-16-7-16-16V70Z"/><path fill="none" stroke="#efe8d4" stroke-width="7" d="M93 68c17 1 17 28 0 29"/><ellipse cx="64" cy="58" rx="22" ry="9" fill="#fff" opacity=".92"/><g fill="#efe8d4" opacity=".58"><ellipse cx="57" cy="57" rx="4" ry="3"/><ellipse cx="69" cy="57" rx="4" ry="3"/></g>
+  </g>
+</svg>

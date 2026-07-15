@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">黑豆</title>
+  <desc id="desc">豆制品食材图标：黑豆</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f3f8ed"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a99bb7"/>
+      <stop offset="1" stop-color="#4d4658"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="url(#main)"><ellipse cx="51" cy="63" rx="15" ry="20" transform="rotate(-18 51 63)"/><ellipse cx="76" cy="75" rx="16" ry="21" transform="rotate(22 76 75)"/></g><path fill="#fff" opacity="0.58" d="M44 58c5-5 11-7 17-4"/>
+  </g>
+</svg>

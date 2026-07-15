@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">红薯</title>
+  <desc id="desc">主食食材图标：红薯</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff8e9"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2c28c"/>
+      <stop offset="1" stop-color="#c9794f"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#9b4f54" d="M37 68c4-26 29-45 51-33 20 11 19 43-2 62-23 22-54 5-49-29Z"/><path fill="url(#main)" d="M49 70c3-16 17-28 31-21 13 7 12 27-2 39-15 14-32 3-29-18Z"/><path fill="#fff0c8" opacity=".65" d="M57 56c8-6 17-7 25-3-12 3-21 10-28 22 0-8 1-14 3-19Z"/>
+  </g>
+</svg>

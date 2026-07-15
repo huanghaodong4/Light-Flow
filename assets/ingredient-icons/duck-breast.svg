@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">鸭胸肉</title>
+  <desc id="desc">肉蛋海鲜食材图标：鸭胸肉</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff2ec"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eab08f"/>
+      <stop offset="1" stop-color="#b25a58"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#main)" d="M31 70c4-23 31-37 54-25 17 9 19 33 4 46-16 14-47 10-56-6-3-5-4-10-2-15Z"/><path fill="#2b4937" opacity="0.22" d="M48 49c12 16 31 17 43 8-3-5-8-9-14-12-10-5-21-4-29 4Z"/>
+  </g>
+</svg>

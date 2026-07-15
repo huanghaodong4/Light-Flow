@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">芦笋</title>
+  <desc id="desc">蔬菜食材图标：芦笋</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eff9ed"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d4e5a8"/>
+      <stop offset="1" stop-color="#609b61"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="none" stroke="#609b61" stroke-width="9" stroke-linecap="round" d="M47 103 58 44M66 103 68 39M86 103 78 44"/><path fill="url(#main)" d="M58 22l10 22H47l11-22ZM69 17l11 23H58l11-23ZM80 23l10 22H69l11-22Z"/><g fill="#fff" opacity=".55"><circle cx="58" cy="33" r="2.5"/><circle cx="69" cy="29" r="2.5"/><circle cx="80" cy="34" r="2.5"/></g>
+  </g>
+</svg>

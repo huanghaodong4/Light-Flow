@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+audit-light-flow-fit-2026-07-13/
+verification/
+assets/recipes/contact-sheets/
+assets/recipes/image-library-work/
+assets/recipes/supplemental-downloads/
+assets/recipes/web-recipe-images/
+assets/recipes/pexels-recipe-images/
+assets/recipes/image-library-backup-*/
+MCP_IMAGE_TOOLS.md
+mcp-image-tools.config.example.json
+package-lock.json
+package.json
+

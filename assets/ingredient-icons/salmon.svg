@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">三文鱼</title>
+  <desc id="desc">高蛋白食材图标：三文鱼</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef8f1"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd6c6"/>
+      <stop offset="1" stop-color="#f28a73"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#fff2e8" d="M33 75c7-26 38-43 60-28 16 11 15 34-1 47-18 14-52 8-59-9-1-3-1-6 0-10Z"/><path fill="url(#main)" d="M40 74c6-20 29-34 46-24 13 8 13 25 1 35-14 12-40 8-47-4-1-2-1-5 0-7Z"/><path fill="none" stroke="#fff" stroke-width="5" opacity=".86" d="M51 55l29 31M64 50l28 27M43 69l22 24"/><path fill="#d95f58" opacity=".45" d="M44 82c12 8 29 8 42 0-10 13-33 15-42 0Z"/>
+  </g>
+</svg>
