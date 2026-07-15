@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">鱿鱼</title>
+  <desc id="desc">肉蛋海鲜食材图标：鱿鱼</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff2ec"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ede4ff"/>
+      <stop offset="1" stop-color="#b9a7d8"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="url(#main)" d="M45 29h38l10 34-29 21-29-21 10-34Z"/><path fill="none" stroke="#b9a7d8" stroke-width="7" d="M49 84v22M60 84v24M71 84v24M82 84v22"/><circle cx="57" cy="57" r="4" fill="#2b4937" opacity=".35"/><circle cx="72" cy="57" r="4" fill="#2b4937" opacity=".35"/>
+  </g>
+</svg>

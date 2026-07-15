@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">糙米</title>
+  <desc id="desc">主食食材图标：糙米</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff8e9"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ead7aa"/>
+      <stop offset="1" stop-color="#b9905c"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse fill="url(#main)" cx="64" cy="78" rx="36" ry="23"/><path fill="#fff" opacity=".82" d="M36 71c5-15 49-24 64 0-5 12-59 14-64 0Z"/><g fill="#b9905c"><ellipse cx="52" cy="73" rx="4" ry="9"/><ellipse cx="64" cy="70" rx="4" ry="9"/><ellipse cx="76" cy="74" rx="4" ry="9"/></g>
+  </g>
+</svg>

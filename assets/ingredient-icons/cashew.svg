@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">腰果</title>
+  <desc id="desc">坚果食材图标：腰果</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff4e5"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#edd3a1"/>
+      <stop offset="1" stop-color="#c39a64"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="none" stroke="#c39a64" stroke-width="20" stroke-linecap="round" d="M37 58c14-34 67-25 60 17-6 36-61 37-62 0"/><path fill="none" stroke="#edd3a1" stroke-width="10" stroke-linecap="round" opacity=".78" d="M47 59c12-20 45-15 42 13"/><circle cx="39" cy="76" r="7" fill="#c39a64"/><circle cx="94" cy="76" r="7" fill="#c39a64"/><path fill="#fff" opacity=".32" d="M54 45c14-8 31-4 39 9-17-8-34-6-48 7 2-7 5-12 9-16Z"/>
+  </g>
+</svg>

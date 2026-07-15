@@ -1,0 +1,55 @@
+[
+  {
+    "label": "19-click-photo",
+    "text": "拍照识别",
+    "error": "not found"
+  },
+  {
+    "label": "20-click-discover",
+    "text": "发现",
+    "box": {
+      "found": "⌕\n发现",
+      "x": 146,
+      "y": 809
+    },
+    "after": {
+      "dialogs": [],
+      "scrollY": 0,
+      "text": "‹\n选择现有食材\n清空\nBUILD YOUR PLATE\n冰箱里有什么？\n\n挑选手边食材，我们为你组合更轻盈的一餐。\n\n⌕\n肉类海鲜\n蛋奶豆制品\n蔬菜菌菇\n主食薯类\n水果坚果\n3\n已选食材\n\n鸡胸肉、鸡蛋、番茄\n\n肉类海鲜\n\n高蛋白核心\n\n8 种\n鸡胸肉\n✓\n虾仁\n+\n牛肉\n+\n三文鱼\n+\n鸡腿肉\n+\n鳕鱼\n+\n金枪鱼\n+\n瘦猪肉\n+\n蛋奶豆制品\n\n日常补充蛋白\n\n8 种\n鸡蛋\n✓\n豆腐\n+\n无糖酸奶\n+\n牛奶\n+\n毛豆\n+\n鹰嘴豆\n+\n黑豆\n+\n低脂奶酪\n+\n蔬菜菌菇\n\n纤维与微量营养\n\n10 种\n黄瓜\n+\n西兰花\n+\n番茄\n✓\n菠菜\n+\n生菜\n+\n彩椒\n+\n芦笋\n+\n蘑菇\n+\n西葫芦\n+\n紫甘蓝\n+\n主食薯类\n\n稳定能量来源\n\n8 种\n糙米\n+\n燕麦\n+\n红薯\n+\n玉米\n+\n全麦面包\n+\n意面\n+\n藜麦\n+\n土豆\n+\n水果坚果\n\n轻食搭配与加餐\n\n8 种\n牛油果\n+\n蓝莓\n+\n香蕉\n+\n苹果\n+\n橙子\n+\n草莓\n+\n猕猴桃\n+\n混合坚果\n+\n根据 3 种食材找菜谱 →",
+      "title": "轻食谱",
+      "url": "https://light-flow-fit.netlify.app/"
+    }
+  },
+  {
+    "label": "21-click-log",
+    "text": "记录",
+    "box": {
+      "found": "▣\n记录",
+      "x": 244,
+      "y": 809
+    },
+    "after": {
+      "dialogs": [],
+      "scrollY": 0,
+      "text": "7月11日 · 星期六\n今日记录\n日历\n6\n一\n7\n二\n8\n三\n9\n四\n10\n五\n11\n六\n12\n日\n840\n已摄入千卡\n今日目标\n1680 千卡\n\n还可摄入 840 千卡\n\n营养进度\n点击调整\n蛋白质\n68 / 105g\n碳水\n96 / 190g\n脂肪\n28 / 52g\n三餐记录\n＋ 添加\n晨\n早餐08:20\n\n燕麦酸奶杯 · 水煮蛋\n\n328\n千卡\n午\n午餐12:35\n\n杂粮饭 · 青椒牛肉丝\n\n512\n千卡\n晚\n晚餐未记录\n\n添加今晚吃的食物\n\n＋\n⌣\n+\n今日饮水\n\n状态不错，再喝几杯吧\n\n5 / 8 杯\n◇\n◇\n◇\n◇\n◇\n◇\n◇\n◇\n连续打卡 6 天\n还差 3 杯点亮今日徽章\n⌂\n首页\n⌕\n发现\n▣\n记录\n○\n我的",
+      "title": "轻食谱",
+      "url": "https://light-flow-fit.netlify.app/"
+    }
+  },
+  {
+    "label": "22-click-profile",
+    "text": "我的",
+    "box": {
+      "found": "○\n我的",
+      "x": 341,
+      "y": 809
+    },
+    "after": {
+      "dialogs": [],
+      "scrollY": 0,
+      "text": "轻\n更换\n轻食谱用户\n昊栋\n\n坚持记录第 12 天\n\n⚙\n稳健减脂\n增肌塑形\n保持体重\n改善饮食\n当前目标 · 点击修改\n稳健减脂\n\n目标体重 58 kg · 预计还需 8 周\n\n42%\n进度\n60.0\n体重 kg\n22.0\nBMI\n24.8%\n体脂率\n我的内容\n♡\n收藏食谱\n18道 ›\n▣\n我的饮食记录\n12天 ›\n⌁\n身体数据趋势\n近30天 ›\n饮食偏好\n可多选\n✓ 减脂\n✓ 高蛋白\n✓ 少油\n✓ 中式家常\n低糖\n素食友好\n◷\n健康提醒\n已开启 ›\n◇\n数据与隐私\n›\n⌂\n首页\n⌕\n发现\n▣\n记录\n○\n我的",
+      "title": "轻食谱",
+      "url": "https://light-flow-fit.netlify.app/"
+    }
+  }
+]

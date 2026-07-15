@@ -1,0 +1,386 @@
+[
+  {
+    "label": "start",
+    "after": {
+      "dialogs": [],
+      "scrollY": 0,
+      "selectedLike": [
+        {
+          "ariaCurrent": null,
+          "cls": "avatar",
+          "disabled": false,
+          "i": 0,
+          "text": "轻"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "daily-card",
+          "disabled": false,
+          "i": 1,
+          "text": "今日摄入 · 点击测算代谢\n620 / 1680 千卡\n\n还可以摄入约 1060 千卡\n\n86\n今日健康分"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "choose-action",
+          "disabled": false,
+          "i": 2,
+          "text": "＋\n选择食材做一餐\n看看冰箱里能做什么\n›"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "camera-action",
+          "disabled": false,
+          "i": 3,
+          "text": "◎\n拍照识别这一餐\n估算热量与营养\n›"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 4,
+          "text": "200道食谱"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "active",
+          "disabled": false,
+          "i": 5,
+          "text": "为你推荐"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 6,
+          "text": "家常菜"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 7,
+          "text": "川湘风味"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 8,
+          "text": "粤式清鲜"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 9,
+          "text": "江浙小炒"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 10,
+          "text": "北方家常"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 11,
+          "text": "西式轻食"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 12,
+          "text": "营养早餐"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 13,
+          "text": "高蛋白"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 14,
+          "text": "低脂晚餐"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 15,
+          "text": "放纵餐"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 16,
+          "text": "轻油宫保鸡丁\n\n438 千卡 · 20分钟"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 17,
+          "text": "清蒸鲈鱼配时蔬\n\n342 千卡 · 22分钟"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 18,
+          "text": "农家小炒肉\n\n465 千卡 · 18分钟"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 19,
+          "text": "牛油果溏心蛋吐司\n\n386 千卡 · 10分钟"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "active",
+          "disabled": false,
+          "i": 20,
+          "text": "⌂\n首页"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 21,
+          "text": "⌕\n发现"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 22,
+          "text": "▣\n记录"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "",
+          "disabled": false,
+          "i": 23,
+          "text": "○\n我的"
+        }
+      ],
+      "text": "中午好，今天也要好好吃饭\n轻食谱\n轻\n今日摄入 · 点击测算代谢\n620 / 1680 千卡\n\n还可以摄入约 1060 千卡\n\n86\n今日健康分\n＋\n选择食材做一餐\n看看冰箱里能做什么\n›\n◎\n拍照识别这一餐\n估算热量与营养\n›\n今天吃点什么\n200道食谱\n为你推荐\n家常菜\n川湘风味\n粤式清鲜\n江浙小炒\n北方家常\n西式轻食\n营养早餐\n高蛋白\n低脂晚餐\n放纵餐\n今日推荐 · 精选食谱\n西红柿炒鸡蛋\n\n298 千卡 · 蛋白质 18g · 12分钟\n\n90\n健康分\n轻油宫保鸡丁\n\n438 千卡 · 20分钟\n\n清蒸鲈鱼配时蔬\n\n342 千卡 · 22分钟\n\n农家小炒肉\n\n465 千卡 · 18分钟\n\n牛油果溏心蛋吐司\n\n386 千卡 · 10分钟\n\n⌂\n首页\n⌕\n发现\n▣\n记录\n○\n我的",
+      "url": "https://light-flow-fit.netlify.app/"
+    }
+  },
+  {
+    "label": "13-click-ingredients",
+    "text": "选择食材",
+    "box": {
+      "found": "＋\n选择食材做一餐\n看看冰箱里能做什么\n›",
+      "x": 105,
+      "y": 390
+    },
+    "after": {
+      "dialogs": [],
+      "scrollY": 0,
+      "selectedLike": [
+        {
+          "ariaCurrent": null,
+          "cls": "icon-button",
+          "disabled": false,
+          "i": 0,
+          "text": "‹"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "text-button",
+          "disabled": false,
+          "i": 1,
+          "text": "清空"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient selected",
+          "disabled": false,
+          "i": 2,
+          "text": "鸡胸肉\n✓"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 3,
+          "text": "虾仁\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 4,
+          "text": "牛肉\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 5,
+          "text": "三文鱼\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 6,
+          "text": "鸡腿肉\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 7,
+          "text": "鳕鱼\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 8,
+          "text": "金枪鱼\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 9,
+          "text": "瘦猪肉\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient selected",
+          "disabled": false,
+          "i": 10,
+          "text": "鸡蛋\n✓"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 11,
+          "text": "豆腐\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 12,
+          "text": "无糖酸奶\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 13,
+          "text": "牛奶\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 14,
+          "text": "毛豆\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 15,
+          "text": "鹰嘴豆\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 16,
+          "text": "黑豆\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 17,
+          "text": "低脂奶酪\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 18,
+          "text": "黄瓜\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 19,
+          "text": "西兰花\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient selected",
+          "disabled": false,
+          "i": 20,
+          "text": "番茄\n✓"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 21,
+          "text": "菠菜\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 22,
+          "text": "生菜\n+"
+        },
+        {
+          "ariaCurrent": null,
+          "cls": "ingredient",
+          "disabled": false,
+          "i": 23,
+          "text": "彩椒\n+"
+        }
+      ],
+      "text": "‹\n选择现有食材\n清空\nBUILD YOUR PLATE\n冰箱里有什么？\n\n挑选手边食材，我们为你组合更轻盈的一餐。\n\n⌕\n肉类海鲜\n蛋奶豆制品\n蔬菜菌菇\n主食薯类\n水果坚果\n3\n已选食材\n\n鸡胸肉、鸡蛋、番茄\n\n肉类海鲜\n\n高蛋白核心\n\n8 种\n鸡胸肉\n✓\n虾仁\n+\n牛肉\n+\n三文鱼\n+\n鸡腿肉\n+\n鳕鱼\n+\n金枪鱼\n+\n瘦猪肉\n+\n蛋奶豆制品\n\n日常补充蛋白\n\n8 种\n鸡蛋\n✓\n豆腐\n+\n无糖酸奶\n+\n牛奶\n+\n毛豆\n+\n鹰嘴豆\n+\n黑豆\n+\n低脂奶酪\n+\n蔬菜菌菇\n\n纤维与微量营养\n\n10 种\n黄瓜\n+\n西兰花\n+\n番茄\n✓\n菠菜\n+\n生菜\n+\n彩椒\n+\n芦笋\n+\n蘑菇\n+\n西葫芦\n+\n紫甘蓝\n+\n主食薯类\n\n稳定能量来源\n\n8 种\n糙米\n+\n燕麦\n+\n红薯\n+\n玉米\n+\n全麦面包\n+\n意面\n+\n藜麦\n+\n土豆\n+\n水果坚果\n\n轻食搭配与加餐\n\n8 种\n牛油果\n+\n蓝莓\n+\n香蕉\n+\n苹果\n+\n橙子\n+\n草莓\n+\n猕猴桃\n+\n混合坚果\n+\n根据 3 种食材找菜谱 →",
+      "url": "https://light-flow-fit.netlify.app/"
+    }
+  },
+  {
+    "label": "14-click-photo",
+    "text": "拍照识别",
+    "error": "not found"
+  },
+  {
+    "label": "15-click-discover",
+    "text": "发现",
+    "error": "not found"
+  },
+  {
+    "label": "16-click-log",
+    "text": "记录",
+    "error": "not found"
+  },
+  {
+    "label": "17-click-profile",
+    "text": "我的",
+    "error": "not found"
+  }
+]

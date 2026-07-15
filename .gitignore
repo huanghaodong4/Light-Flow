@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.netlify/
+assets/recipes/contact-sheets/
+assets/recipes/image-library-work/
+assets/recipes/supplemental-downloads/
+assets/recipes/web-recipe-images/
+assets/recipes/pexels-recipe-images/
+assets/recipes/image-library-backup-*/
+

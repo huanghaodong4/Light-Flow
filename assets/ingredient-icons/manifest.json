@@ -1,0 +1,470 @@
+{
+  "chicken-breast": {
+    "name": "鸡胸肉",
+    "group": "高蛋白",
+    "shape": "cutlet",
+    "icon": "./assets/ingredient-icons/chicken-breast.svg"
+  },
+  "egg": {
+    "name": "鸡蛋",
+    "group": "高蛋白",
+    "shape": "egg",
+    "icon": "./assets/ingredient-icons/egg.svg"
+  },
+  "shrimp": {
+    "name": "虾仁",
+    "group": "高蛋白",
+    "shape": "shrimp",
+    "icon": "./assets/ingredient-icons/shrimp.svg"
+  },
+  "seabass": {
+    "name": "鲈鱼",
+    "group": "高蛋白",
+    "shape": "whole-fish",
+    "icon": "./assets/ingredient-icons/seabass.svg"
+  },
+  "salmon": {
+    "name": "三文鱼",
+    "group": "高蛋白",
+    "shape": "salmon",
+    "icon": "./assets/ingredient-icons/salmon.svg"
+  },
+  "beef": {
+    "name": "牛肉",
+    "group": "高蛋白",
+    "shape": "steak",
+    "icon": "./assets/ingredient-icons/beef.svg"
+  },
+  "tofu": {
+    "name": "豆腐",
+    "group": "高蛋白",
+    "shape": "tofu",
+    "icon": "./assets/ingredient-icons/tofu.svg"
+  },
+  "greek-yogurt": {
+    "name": "希腊酸奶",
+    "group": "乳制品",
+    "shape": "yogurt",
+    "icon": "./assets/ingredient-icons/greek-yogurt.svg"
+  },
+  "tomato": {
+    "name": "番茄",
+    "group": "蔬菜",
+    "shape": "tomato",
+    "icon": "./assets/ingredient-icons/tomato.svg"
+  },
+  "broccoli": {
+    "name": "西兰花",
+    "group": "蔬菜",
+    "shape": "broccoli",
+    "icon": "./assets/ingredient-icons/broccoli.svg"
+  },
+  "green-pepper": {
+    "name": "青椒",
+    "group": "蔬菜",
+    "shape": "bell-pepper",
+    "icon": "./assets/ingredient-icons/green-pepper.svg"
+  },
+  "carrot": {
+    "name": "胡萝卜",
+    "group": "蔬菜",
+    "shape": "carrot",
+    "icon": "./assets/ingredient-icons/carrot.svg"
+  },
+  "cucumber": {
+    "name": "黄瓜",
+    "group": "蔬菜",
+    "shape": "cucumber",
+    "icon": "./assets/ingredient-icons/cucumber.svg"
+  },
+  "lettuce": {
+    "name": "生菜",
+    "group": "蔬菜",
+    "shape": "lettuce",
+    "icon": "./assets/ingredient-icons/lettuce.svg"
+  },
+  "spinach": {
+    "name": "菠菜",
+    "group": "蔬菜",
+    "shape": "spinach",
+    "icon": "./assets/ingredient-icons/spinach.svg"
+  },
+  "mushroom": {
+    "name": "蘑菇",
+    "group": "蔬菜",
+    "shape": "mushroom",
+    "icon": "./assets/ingredient-icons/mushroom.svg"
+  },
+  "corn": {
+    "name": "玉米",
+    "group": "主食",
+    "shape": "corn",
+    "icon": "./assets/ingredient-icons/corn.svg"
+  },
+  "brown-rice": {
+    "name": "糙米",
+    "group": "主食",
+    "shape": "rice",
+    "icon": "./assets/ingredient-icons/brown-rice.svg"
+  },
+  "sweet-potato": {
+    "name": "红薯",
+    "group": "主食",
+    "shape": "sweet-potato",
+    "icon": "./assets/ingredient-icons/sweet-potato.svg"
+  },
+  "oats": {
+    "name": "燕麦",
+    "group": "主食",
+    "shape": "oats",
+    "icon": "./assets/ingredient-icons/oats.svg"
+  },
+  "whole-wheat-toast": {
+    "name": "全麦吐司",
+    "group": "主食",
+    "shape": "toast",
+    "icon": "./assets/ingredient-icons/whole-wheat-toast.svg"
+  },
+  "avocado": {
+    "name": "牛油果",
+    "group": "优质脂肪",
+    "shape": "avocado",
+    "icon": "./assets/ingredient-icons/avocado.svg"
+  },
+  "almond": {
+    "name": "杏仁",
+    "group": "优质脂肪",
+    "shape": "almond",
+    "icon": "./assets/ingredient-icons/almond.svg"
+  },
+  "banana": {
+    "name": "香蕉",
+    "group": "水果",
+    "shape": "banana",
+    "icon": "./assets/ingredient-icons/banana.svg"
+  },
+  "pork": {
+    "name": "猪肉",
+    "group": "肉蛋海鲜",
+    "shape": "pork",
+    "icon": "./assets/ingredient-icons/pork.svg"
+  },
+  "pork-ribs": {
+    "name": "排骨",
+    "group": "肉蛋海鲜",
+    "shape": "ribs",
+    "icon": "./assets/ingredient-icons/pork-ribs.svg"
+  },
+  "chicken-thigh": {
+    "name": "鸡腿肉",
+    "group": "肉蛋海鲜",
+    "shape": "drumstick",
+    "icon": "./assets/ingredient-icons/chicken-thigh.svg"
+  },
+  "duck-breast": {
+    "name": "鸭胸肉",
+    "group": "肉蛋海鲜",
+    "shape": "duck",
+    "icon": "./assets/ingredient-icons/duck-breast.svg"
+  },
+  "cod": {
+    "name": "鳕鱼",
+    "group": "肉蛋海鲜",
+    "shape": "cod-fillet",
+    "icon": "./assets/ingredient-icons/cod.svg"
+  },
+  "tuna": {
+    "name": "金枪鱼",
+    "group": "肉蛋海鲜",
+    "shape": "tuna-steak",
+    "icon": "./assets/ingredient-icons/tuna.svg"
+  },
+  "scallop": {
+    "name": "扇贝",
+    "group": "肉蛋海鲜",
+    "shape": "scallop",
+    "icon": "./assets/ingredient-icons/scallop.svg"
+  },
+  "squid": {
+    "name": "鱿鱼",
+    "group": "肉蛋海鲜",
+    "shape": "squid",
+    "icon": "./assets/ingredient-icons/squid.svg"
+  },
+  "crab": {
+    "name": "蟹肉",
+    "group": "肉蛋海鲜",
+    "shape": "crab",
+    "icon": "./assets/ingredient-icons/crab.svg"
+  },
+  "bok-choy": {
+    "name": "小青菜",
+    "group": "蔬菜",
+    "shape": "bok-choy",
+    "icon": "./assets/ingredient-icons/bok-choy.svg"
+  },
+  "cabbage": {
+    "name": "白菜",
+    "group": "蔬菜",
+    "shape": "cabbage",
+    "icon": "./assets/ingredient-icons/cabbage.svg"
+  },
+  "cauliflower": {
+    "name": "花菜",
+    "group": "蔬菜",
+    "shape": "cauliflower",
+    "icon": "./assets/ingredient-icons/cauliflower.svg"
+  },
+  "zucchini": {
+    "name": "西葫芦",
+    "group": "蔬菜",
+    "shape": "zucchini",
+    "icon": "./assets/ingredient-icons/zucchini.svg"
+  },
+  "eggplant": {
+    "name": "茄子",
+    "group": "蔬菜",
+    "shape": "eggplant",
+    "icon": "./assets/ingredient-icons/eggplant.svg"
+  },
+  "potato": {
+    "name": "土豆",
+    "group": "蔬菜",
+    "shape": "potato",
+    "icon": "./assets/ingredient-icons/potato.svg"
+  },
+  "onion": {
+    "name": "洋葱",
+    "group": "蔬菜",
+    "shape": "onion",
+    "icon": "./assets/ingredient-icons/onion.svg"
+  },
+  "garlic": {
+    "name": "大蒜",
+    "group": "蔬菜",
+    "shape": "garlic",
+    "icon": "./assets/ingredient-icons/garlic.svg"
+  },
+  "ginger": {
+    "name": "生姜",
+    "group": "蔬菜",
+    "shape": "ginger",
+    "icon": "./assets/ingredient-icons/ginger.svg"
+  },
+  "celery": {
+    "name": "芹菜",
+    "group": "蔬菜",
+    "shape": "celery",
+    "icon": "./assets/ingredient-icons/celery.svg"
+  },
+  "asparagus": {
+    "name": "芦笋",
+    "group": "蔬菜",
+    "shape": "asparagus",
+    "icon": "./assets/ingredient-icons/asparagus.svg"
+  },
+  "pumpkin": {
+    "name": "南瓜",
+    "group": "蔬菜",
+    "shape": "pumpkin",
+    "icon": "./assets/ingredient-icons/pumpkin.svg"
+  },
+  "pea": {
+    "name": "豌豆",
+    "group": "蔬菜",
+    "shape": "pea-pod",
+    "icon": "./assets/ingredient-icons/pea.svg"
+  },
+  "white-rice": {
+    "name": "米饭",
+    "group": "主食",
+    "shape": "rice-bowl",
+    "icon": "./assets/ingredient-icons/white-rice.svg"
+  },
+  "noodles": {
+    "name": "面条",
+    "group": "主食",
+    "shape": "noodles",
+    "icon": "./assets/ingredient-icons/noodles.svg"
+  },
+  "pasta": {
+    "name": "意面",
+    "group": "主食",
+    "shape": "pasta",
+    "icon": "./assets/ingredient-icons/pasta.svg"
+  },
+  "quinoa": {
+    "name": "藜麦",
+    "group": "主食",
+    "shape": "quinoa",
+    "icon": "./assets/ingredient-icons/quinoa.svg"
+  },
+  "black-rice": {
+    "name": "黑米",
+    "group": "主食",
+    "shape": "black-rice",
+    "icon": "./assets/ingredient-icons/black-rice.svg"
+  },
+  "buckwheat": {
+    "name": "荞麦",
+    "group": "主食",
+    "shape": "buckwheat",
+    "icon": "./assets/ingredient-icons/buckwheat.svg"
+  },
+  "rice-cake": {
+    "name": "年糕",
+    "group": "主食",
+    "shape": "rice-cake",
+    "icon": "./assets/ingredient-icons/rice-cake.svg"
+  },
+  "apple": {
+    "name": "苹果",
+    "group": "水果",
+    "shape": "apple",
+    "icon": "./assets/ingredient-icons/apple.svg"
+  },
+  "orange": {
+    "name": "橙子",
+    "group": "水果",
+    "shape": "orange",
+    "icon": "./assets/ingredient-icons/orange.svg"
+  },
+  "grape": {
+    "name": "葡萄",
+    "group": "水果",
+    "shape": "grape",
+    "icon": "./assets/ingredient-icons/grape.svg"
+  },
+  "blueberry": {
+    "name": "蓝莓",
+    "group": "水果",
+    "shape": "blueberry",
+    "icon": "./assets/ingredient-icons/blueberry.svg"
+  },
+  "strawberry": {
+    "name": "草莓",
+    "group": "水果",
+    "shape": "strawberry",
+    "icon": "./assets/ingredient-icons/strawberry.svg"
+  },
+  "kiwi": {
+    "name": "猕猴桃",
+    "group": "水果",
+    "shape": "kiwi",
+    "icon": "./assets/ingredient-icons/kiwi.svg"
+  },
+  "mango": {
+    "name": "芒果",
+    "group": "水果",
+    "shape": "mango",
+    "icon": "./assets/ingredient-icons/mango.svg"
+  },
+  "pineapple": {
+    "name": "菠萝",
+    "group": "水果",
+    "shape": "pineapple",
+    "icon": "./assets/ingredient-icons/pineapple.svg"
+  },
+  "milk": {
+    "name": "牛奶",
+    "group": "乳制品",
+    "shape": "milk",
+    "icon": "./assets/ingredient-icons/milk.svg"
+  },
+  "cheese": {
+    "name": "芝士",
+    "group": "乳制品",
+    "shape": "cheese",
+    "icon": "./assets/ingredient-icons/cheese.svg"
+  },
+  "cottage-cheese": {
+    "name": "茅屋芝士",
+    "group": "乳制品",
+    "shape": "cottage-cheese",
+    "icon": "./assets/ingredient-icons/cottage-cheese.svg"
+  },
+  "soy-milk": {
+    "name": "豆浆",
+    "group": "豆制品",
+    "shape": "soy-milk",
+    "icon": "./assets/ingredient-icons/soy-milk.svg"
+  },
+  "edamame": {
+    "name": "毛豆",
+    "group": "豆制品",
+    "shape": "edamame",
+    "icon": "./assets/ingredient-icons/edamame.svg"
+  },
+  "black-bean": {
+    "name": "黑豆",
+    "group": "豆制品",
+    "shape": "black-bean",
+    "icon": "./assets/ingredient-icons/black-bean.svg"
+  },
+  "chickpea": {
+    "name": "鹰嘴豆",
+    "group": "豆制品",
+    "shape": "chickpea",
+    "icon": "./assets/ingredient-icons/chickpea.svg"
+  },
+  "walnut": {
+    "name": "核桃",
+    "group": "坚果",
+    "shape": "walnut",
+    "icon": "./assets/ingredient-icons/walnut.svg"
+  },
+  "cashew": {
+    "name": "腰果",
+    "group": "坚果",
+    "shape": "cashew",
+    "icon": "./assets/ingredient-icons/cashew.svg"
+  },
+  "peanut": {
+    "name": "花生",
+    "group": "坚果",
+    "shape": "peanut",
+    "icon": "./assets/ingredient-icons/peanut.svg"
+  },
+  "chia-seed": {
+    "name": "奇亚籽",
+    "group": "坚果",
+    "shape": "chia-seed",
+    "icon": "./assets/ingredient-icons/chia-seed.svg"
+  },
+  "olive-oil": {
+    "name": "橄榄油",
+    "group": "调味品",
+    "shape": "oil",
+    "icon": "./assets/ingredient-icons/olive-oil.svg"
+  },
+  "soy-sauce": {
+    "name": "酱油",
+    "group": "调味品",
+    "shape": "soy-sauce",
+    "icon": "./assets/ingredient-icons/soy-sauce.svg"
+  },
+  "vinegar": {
+    "name": "醋",
+    "group": "调味品",
+    "shape": "vinegar",
+    "icon": "./assets/ingredient-icons/vinegar.svg"
+  },
+  "black-pepper": {
+    "name": "黑胡椒",
+    "group": "调味品",
+    "shape": "peppercorn",
+    "icon": "./assets/ingredient-icons/black-pepper.svg"
+  },
+  "chili": {
+    "name": "辣椒",
+    "group": "调味品",
+    "shape": "chili",
+    "icon": "./assets/ingredient-icons/chili.svg"
+  },
+  "green-onion": {
+    "name": "小葱",
+    "group": "调味品",
+    "shape": "green-onion",
+    "icon": "./assets/ingredient-icons/green-onion.svg"
+  }
+}

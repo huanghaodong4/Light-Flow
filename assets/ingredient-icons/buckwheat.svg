@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">荞麦</title>
+  <desc id="desc">主食食材图标：荞麦</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff8e9"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dfc29a"/>
+      <stop offset="1" stop-color="#9d7d5b"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="url(#main)"><path d="M45 48l15-16 15 16-15 16-15-16Z"/><path d="M68 76l16-17 16 17-16 17-16-17Z"/><path d="M33 82l14-15 14 15-14 15-14-15Z"/><path d="M63 98l11-12 12 12-12 12-11-12Z"/></g><path fill="none" stroke="#fff" stroke-width="3" opacity=".52" d="M55 48h10M78 76h11M43 82h9"/>
+  </g>
+</svg>

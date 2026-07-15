@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">茅屋芝士</title>
+  <desc id="desc">乳制品食材图标：茅屋芝士</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f0f7fb"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d5d0bf"/>
+      <stop offset="1" stop-color="#f4f2e7"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#fff" d="M31 57h66l-8 38c-2 9-10 16-20 16H59c-10 0-18-7-20-16l-8-38Z"/><ellipse fill="url(#main)" cx="64" cy="58" rx="35" ry="14"/><g fill="#fff" opacity=".62"><circle cx="54" cy="56" r="4"/><circle cx="65" cy="53" r="4"/><circle cx="76" cy="58" r="4"/><circle cx="60" cy="64" r="4"/></g>
+  </g>
+</svg>

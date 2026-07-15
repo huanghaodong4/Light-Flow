@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">菠萝</title>
+  <desc id="desc">水果食材图标：菠萝</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="14" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff2f2"/>
+    </linearGradient>
+    <linearGradient id="main" x1="34" y1="28" x2="96" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8dbb62"/>
+      <stop offset="1" stop-color="#d2aa3e"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#31523d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="38" cy="35" r="14" fill="#fff" opacity="0.44"/>
+  <g filter="url(#softShadow)" stroke="#2b4937" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#4f8e54" d="M64 24l8 17 16-10-8 19 19-2-16 12 12 15-20-7-11 18-11-18-20 7 12-15-16-12 19 2-8-19 16 10 8-17Z"/><path fill="url(#main)" d="M41 63c10-13 36-13 46 0 8 10 7 32-5 43-9 8-27 8-36 0-12-11-13-33-5-43Z"/><path fill="none" stroke="#fff" stroke-width="3" opacity=".5" d="M44 76l40 21M84 76 44 97M42 88h44"/>
+  </g>
+</svg>
