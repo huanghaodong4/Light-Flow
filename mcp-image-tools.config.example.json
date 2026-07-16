@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "stock-images": {
+      "command": "npm",
+      "args": ["run", "mcp:stock-images", "--"],
+      "env": {
+        "PEXELS_API_KEY": "your-pexels-key",
+        "UNSPLASH_API_KEY": "your-unsplash-key",
+        "PIXABAY_API_KEY": "your-pixabay-key"
+      }
+    },
+    "image-resolver": {
+      "command": "npm",
+      "args": ["run", "mcp:image-resolver", "--"],
+      "env": {
+        "PEXELS_API_KEY": "your-pexels-key",
+        "UNSPLASH_ACCESS_KEY": "your-unsplash-key"
+      }
+    }
+  }
+}

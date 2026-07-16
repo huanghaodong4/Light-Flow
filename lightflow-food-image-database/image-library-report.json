@@ -1,0 +1,90 @@
+{
+  "input_original_images": 100,
+  "downloaded_images": 56,
+  "total_catalog_rows": 156,
+  "unique_usable_images": 140,
+  "duplicates_or_similar_moved_to_duplicates": 13,
+  "review_needed_images": 4,
+  "low_quality_or_limited_use_images": 10,
+  "category_counts_unique": {
+    "Healthy-Light-Meals": 60,
+    "review-needed": 1,
+    "Western-Food": 42,
+    "Chinese-Food": 37
+  },
+  "distinct_foods_by_category": {
+    "Healthy-Light-Meals": 60,
+    "Western-Food": 30,
+    "Chinese-Food": 14
+  },
+  "backup_folder": "assets/recipes/image-library-backup-20260715-162645",
+  "organized_folder": "assets/recipes/organized-image-library",
+  "most_repeated_foods": [
+    {
+      "main_category": "Chinese-Food",
+      "food": "beef-noodles",
+      "count": 4
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "fried-rice",
+      "count": 4
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "shrimp-dumplings",
+      "count": 4
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "wonton-soup",
+      "count": 4
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "spring-rolls",
+      "count": 4
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "chow-mein",
+      "count": 4
+    },
+    {
+      "main_category": "Western-Food",
+      "food": "seafood-pasta",
+      "count": 4
+    },
+    {
+      "main_category": "Western-Food",
+      "food": "grilled-steak",
+      "count": 4
+    },
+    {
+      "main_category": "Western-Food",
+      "food": "mushroom-pizza",
+      "count": 4
+    },
+    {
+      "main_category": "Western-Food",
+      "food": "roasted-chicken",
+      "count": 4
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "kung-pao-chicken",
+      "count": 3
+    },
+    {
+      "main_category": "Chinese-Food",
+      "food": "bao-bun-tacos",
+      "count": 3
+    }
+  ],
+  "notes": [
+    "Original set was heavily weighted toward Healthy-Light-Meals.",
+    "Supplemental downloads targeted missing Chinese-Food and Western-Food dishes.",
+    "Unclear images were placed under review-needed rather than forced into a dish name.",
+    "Similar duplicates were copied into duplicates; original source files remain backed up."
+  ]
+}

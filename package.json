@@ -1,0 +1,12 @@
+{
+  "name": "light-flow",
+  "private": true,
+  "scripts": {
+    "mcp:stock-images": "stock-images-mcp",
+    "mcp:image-resolver": "mcp-image-resolver"
+  },
+  "devDependencies": {
+    "@ahmaddioxide/mcp-image-resolver": "^0.3.0",
+    "stock-images-mcp": "^1.0.0"
+  }
+}
