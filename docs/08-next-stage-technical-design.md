@@ -216,20 +216,17 @@ Light Flow：根据营养表计算热量和三大营养素
 
 ## 8. 部署与预览工作流
 
-推荐继续使用：
+当前预览工作流推荐使用：
 
 ```text
-GitHub + Netlify
+GitHub + Vercel Preview
 ```
 
-正式站：
+当前正式站状态：
 
 ```text
-main 分支
-  ↓
-Netlify Production Deploy
-  ↓
-正式线上地址
+Netlify 历史生产站：https://light-flow-fit.netlify.app
+Vercel 生产地址：https://light-flow.vercel.app/
 ```
 
 预览版本：
@@ -239,7 +236,7 @@ feature 分支
   ↓
 Pull Request
   ↓
-Netlify Deploy Preview
+Vercel Preview Deployment
   ↓
 临时在线预览地址
 ```
@@ -268,7 +265,8 @@ feature/grocy-sync
 - 重要改动先走预览链接。
 - 正式站只在确认后更新。
 - GitHub 保存每一版代码历史。
-- Netlify 提供每一版可浏览地址。
+- Vercel 提供每个 Pull Request 的可浏览预览地址。
+- Netlify 额度恢复后可继续作为备用预览或生产部署方案。
 
 ## 9. 模块化协作机制
 
@@ -279,7 +277,7 @@ feature/grocy-sync
 - 每次只改一个主模块。
 - 每个模块有自己的模块文档。
 - 每个模块任务使用独立 Git 分支。
-- 每个 Pull Request 生成独立 Netlify 预览链接。
+- 每个 Pull Request 生成独立 Vercel Preview 链接。
 - 正式站只在确认后更新。
 - 后续任务优先读取模块文档和代码，不依赖长聊天记录。
 
@@ -358,7 +356,7 @@ API Key 必须放在 Netlify 环境变量中，不能放在前端代码里。
 
 - 使用 Figma 做多版设计。
 - 每个功能走 Git 分支。
-- 每个 Pull Request 使用 Netlify Deploy Preview。
+- 每个 Pull Request 使用 Vercel Preview。
 - 确认后再正式上线。
 
 ### 第五阶段：外部能力集成
@@ -394,8 +392,8 @@ API Key 必须放在 Netlify 环境变量中，不能放在前端代码里。
 本地储存：localStorage
 AI 后端：Netlify Functions
 版本管理：GitHub
-预览发布：Netlify Deploy Preview
-正式发布：Netlify Production Deploy
+预览发布：Vercel Preview
+正式发布：确认后再更新生产站
 未来云同步：Supabase 候选
 未来库存集成：Grocy 候选
 ```
@@ -406,5 +404,5 @@ AI 后端：Netlify Functions
 - 用 localStorage 保持第一阶段轻量。
 - 用 Netlify Function 安全接 AI。
 - 用 Figma 支持多版设计。
-- 用 GitHub 和 Netlify Preview 支持多版本在线浏览。
+- 用 GitHub 和 Vercel Preview 支持多版本在线浏览。
 - 正式站只在确认后更新。

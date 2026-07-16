@@ -33,8 +33,9 @@ Light Flow 当前最大体验风险是“用户一眼看到菜谱图和菜名不
 目标：
 
 - 确认当前项目是否已经关联 GitHub。
-- 确认 Netlify 是否连接 GitHub。
-- 确认 Pull Request 是否能生成 Deploy Preview。
+- 确认 Vercel 是否连接 GitHub。
+- 确认 Pull Request 是否能生成 Vercel Preview。
+- 记录 Netlify 当前状态，作为历史生产站或备用预览方案。
 
 交付：
 
@@ -136,7 +137,7 @@ docs/11-recipe-image-audit.md
 - 发现页和菜谱详情页图片加载正常。
 - 移动端页面没有明显文字溢出。
 - `node --check app.js` 通过。
-- 有 Netlify 预览链接供确认。
+- 有 Vercel Preview 链接供确认。
 
 ## 6. 推荐分支
 
@@ -157,7 +158,7 @@ feature/recipe-expansion-100
 ## 7. 推荐执行顺序
 
 ```text
-确认 GitHub/Netlify 预览
+确认 GitHub/Vercel 预览
   ↓
 修复现有菜谱图文不一致
   ↓
@@ -171,4 +172,3 @@ feature/recipe-expansion-100
   ↓
 合并正式站
 ```
-

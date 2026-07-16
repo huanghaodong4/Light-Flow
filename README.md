@@ -4,6 +4,8 @@
 
 线上地址：https://light-flow-fit.netlify.app
 
+当前预览工作流：GitHub Pull Request 优先使用 Vercel Preview；Netlify 保留为历史生产站和备用部署方案。
+
 ## 快速入口
 
 - 产品和需求文档：`docs/`
@@ -47,7 +49,16 @@ node --check app.js
 node --check scripts/generate-ingredient-icons.mjs
 ```
 
-部署上线：
+预览流程：
+
+```text
+创建模块分支
+打开 Pull Request
+查看 Vercel Preview
+确认后再合并 main
+```
+
+Netlify 生产部署命令：
 
 ```bash
 npx netlify-cli deploy --prod --dir=. --site 5f5567f0-341d-4805-aacd-597370af3e9d

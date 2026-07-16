@@ -160,9 +160,15 @@ feature/grocy-sync
 - 小改动直接覆盖正式站。
 - 未确认预览效果就合并到 `main`。
 
-## 6. Netlify 预览工作流
+## 6. Vercel 预览工作流
 
-推荐使用 GitHub + Netlify Deploy Preview。
+当前推荐使用 GitHub + Vercel Preview。
+
+说明：
+
+- Vercel GitHub App 已限制为只访问 `huanghaodong4/Light-Flow` 仓库。
+- Netlify 仍保留为历史生产站和备用方案，但当前自动部署受额度限制影响。
+- 后续每个模块任务优先通过 Pull Request 生成 Vercel Preview，确认后再合并 `main`。
 
 流程：
 
@@ -179,7 +185,7 @@ feature/grocy-sync
   ↓
 打开 Pull Request
   ↓
-Netlify 生成 Deploy Preview
+Vercel 生成 Preview Deployment
   ↓
 用户在线查看预览
   ↓
@@ -222,7 +228,7 @@ Netlify 生成 Deploy Preview
 
 交付：
 - GitHub 分支
-- Netlify 预览链接
+- Vercel Preview 链接
 - 修改说明
 - 验证结果
 ```
@@ -251,7 +257,7 @@ Netlify 生成 Deploy Preview
 交付：
 - 审计文档
 - GitHub 分支
-- Netlify 预览链接
+- Vercel Preview 链接
 - 验证结果
 ```
 
@@ -288,7 +294,7 @@ Netlify 生成 Deploy Preview
 - 今日记录写入正常
 
 预览链接：
-- Netlify Deploy Preview: ...
+- Vercel Preview: ...
 
 状态：
 - 等待确认，不合并 main

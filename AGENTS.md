@@ -313,7 +313,7 @@ When visual changes are made:
 
 ## 14. Git And Preview Workflow
 
-Use GitHub and Netlify preview workflow for larger changes.
+Use GitHub and Vercel Preview workflow for larger changes. Netlify is kept as the historical production site and a backup preview/deploy option until its quota situation is rechecked.
 
 Recommended flow:
 
@@ -323,7 +323,7 @@ Make scoped change
 Run checks
 Push branch to GitHub
 Open Pull Request
-Use Netlify Deploy Preview for review
+Use Vercel Preview for review
 Merge to main only after confirmation
 ```
 
@@ -348,7 +348,7 @@ Production deployment command documented in README:
 npx netlify-cli deploy --prod --dir=. --site 5f5567f0-341d-4805-aacd-597370af3e9d
 ```
 
-For important changes, prefer Deploy Preview first.
+For important changes, prefer Vercel Preview first.
 
 Production should be updated only when:
 
@@ -411,7 +411,7 @@ Verification:
 - Visual checks completed
 
 Preview:
-- Netlify Deploy Preview link, if available
+- Vercel Preview link, if available
 
 Status:
 - Waiting for review, or ready to merge/deploy
